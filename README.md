@@ -35,7 +35,7 @@ Now containing:
 <figcaption>Feel special, type with Dvorak!!</figcaption>
 </figure>
 
-Start with [monkeype][1] brush up on problem areas with [The Practice Test][2] and if you still have some steam, every character counts if you like [hard-mode][3].
+Start with [monkeype][1], brush up on problem areas with [The Practice Test][2], and [hard-mode][3] if you just want results and plan on having fun later.
 <hr>
 
 This was also a good reason to start practicing using markdown. I tried to include the elements I found neat for practice, so thats why it looks so **AWESOME**.
